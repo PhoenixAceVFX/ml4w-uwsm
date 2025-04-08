@@ -1,4 +1,6 @@
-# ML4W Dotfiles for Hyprland
+# ML4W Dotfiles for Hyprland (UWSM Edit)
+
+### This is from when I used these, I use a custom config now
 
 An advanced configuration of Hyprland for Arch Linux based distributions. This package includes an installation script to install and set up the required components.
 
